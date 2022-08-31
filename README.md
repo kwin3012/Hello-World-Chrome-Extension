@@ -7,4 +7,4 @@
 
 ## Picture
 
-![alt text](https://github.com/kwin3012/Hello-World-Chrome-Extension/pic.png)
+![alt text](https://github.com/kwin3012/Hello-World-Chrome-Extension/blob/main/pic.png)
